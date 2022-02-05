@@ -1,0 +1,13 @@
+@import '../../styles/vars';
+
+.header {
+  position: relative;
+  padding: 0 40px;
+  height: $headerHeight;
+  display: flex;
+  align-items: center;
+  gap: 80px;
+  background-color: #222;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+  z-index: 100;
+}
