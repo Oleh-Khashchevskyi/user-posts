@@ -1,9 +1,20 @@
-# React TypeScript Starter Pack
+# Page with user posts
 
-To use this template click `Use this template`
+# Description
 
-### Available Scripts
+- TEST TASK
 
-`Deploy` - available to deploy your application to gh-pages
+# Technologies
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+- HTML
+- SCSS
+- Java Script
+- Type Script
+- React
+- React Hooks
+- React Router
+- Redux
+
+# Preview
+
+- [DEMO LINK](https://oleh-khashchevskyi.github.io/user-posts)
